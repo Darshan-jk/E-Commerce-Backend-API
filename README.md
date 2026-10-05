@@ -134,5 +134,3 @@ The project contains a simple payment simulation for learning purposes. It does 
 ## Author
 
 **Darshan JK**
-
-B.E. Computer Science and Engineering
